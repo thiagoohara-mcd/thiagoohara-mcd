@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, gaming, budhism, cuisine... i'm curious about a lot of different things.
 - 🌱 I’m currently learning about architectural and design patterns.
 - 💞️ I’m looking to collaborate on anything (that i can, of course).
-- 📫 How to reach me: thiago.ohara@orys.com.br
+- 📫 How to reach me: thiago.a.ohara@capgemini.com
 
 <!---
 thiagoohara-mcd/thiagoohara-mcd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
